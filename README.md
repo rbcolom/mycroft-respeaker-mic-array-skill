@@ -7,6 +7,10 @@ This skills supports the led pixel ring of seeedstudio ReSpeaker 4-Mic HAT.
 ## Examples
  - "Enable pixel ring"
  - "Disable pixel ring"
+ - "Aktiviere Pixel Ring"
+ - "Aktiviere Lichtring"
+ - "Deaktiviere Pixel Ring"
+ - "Deaktiviere Lichtring"
 
 
 ## Credits
